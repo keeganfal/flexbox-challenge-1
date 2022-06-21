@@ -39,7 +39,6 @@ main {
 
 .left-panel {
   width: 67.5%;
-  border: 2px solid red;
   display: flex;
   flex-direction: column;
 }
